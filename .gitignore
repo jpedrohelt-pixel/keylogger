@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.spec
+
+# Projeto
+logs/*.txt
+logs/*.enc
+chave.key
+config_email.json
+config_permissoes.json
+
+# IDE
+.vscode/
+.idea/
+
+# Ambiente virtual
+venv/
+.env
